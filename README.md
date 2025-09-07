@@ -34,3 +34,4 @@ Donut Charts: Attrition rates by age group.
 Gender Comparison: Attrition split between male and female employees.
 
 # Screenshots:
+![Dashboard Screenshot](Dashboard.png)
