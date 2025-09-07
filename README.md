@@ -1,7 +1,7 @@
 # Tableau-Project--Project-HR-Analytics
 
 
-This project is an interactive HR analytics dashboard built with Tableau, designed to provide insights into employee demographics, attrition patterns, and job satisfaction. The dashboard allows users to dynamically explore workforce data by filtering across various dimensions such as department, gender, education, and age groups.
+This project is an interactive HR analytics dashboard built with Tableau, designed to provide insights into employee, attrition patterns, and job satisfaction. The dashboard allows users to dynamically explore workforce data by filtering across various dimensions such as department, gender, education, and age groups.
 
 # Features:
 
